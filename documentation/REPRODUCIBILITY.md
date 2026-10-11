@@ -1,0 +1,1 @@
+Dataset: 1,000 balanced synthetic examples. Split: stratified 80/20, seed 42. Models: keyword rules, TF-IDF unigrams/bigrams + Naive Bayes, TF-IDF unigrams/bigrams + Logistic Regression. Metrics: accuracy and macro precision/recall/F1. Runtime varies by environment. Synthetic scores must not be generalized to real tickets.
