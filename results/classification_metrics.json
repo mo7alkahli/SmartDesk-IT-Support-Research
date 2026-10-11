@@ -1,0 +1,29 @@
+[
+  {
+    "model":"Keyword Rules",
+    "accuracy":1.0,
+    "macro_precision":1.0,
+    "macro_recall":1.0,
+    "macro_f1":1.0,
+    "fit_predict_seconds":0.000968833,
+    "test_samples":200
+  },
+  {
+    "model":"TF-IDF + Naive Bayes",
+    "accuracy":1.0,
+    "macro_precision":1.0,
+    "macro_recall":1.0,
+    "macro_f1":1.0,
+    "fit_predict_seconds":0.014543871,
+    "test_samples":200
+  },
+  {
+    "model":"TF-IDF + Logistic Regression",
+    "accuracy":1.0,
+    "macro_precision":1.0,
+    "macro_recall":1.0,
+    "macro_f1":1.0,
+    "fit_predict_seconds":0.022958702,
+    "test_samples":200
+  }
+]

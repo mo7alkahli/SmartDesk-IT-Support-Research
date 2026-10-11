@@ -1,0 +1,9 @@
+,precision,recall,f1-score,support
+access,1.0,1.0,1.0,40.0
+hardware,1.0,1.0,1.0,40.0
+network,1.0,1.0,1.0,40.0
+software,1.0,1.0,1.0,40.0
+storage,1.0,1.0,1.0,40.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,200.0
+weighted avg,1.0,1.0,1.0,200.0

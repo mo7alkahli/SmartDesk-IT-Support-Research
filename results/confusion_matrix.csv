@@ -1,0 +1,6 @@
+,access,hardware,network,software,storage
+access,40,0,0,0,0
+hardware,0,40,0,0,0
+network,0,0,40,0,0
+software,0,0,0,40,0
+storage,0,0,0,0,40

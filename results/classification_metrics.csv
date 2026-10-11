@@ -1,0 +1,4 @@
+model,accuracy,macro_precision,macro_recall,macro_f1,fit_predict_seconds,test_samples
+Keyword Rules,1.0,1.0,1.0,1.0,0.0009688330000017231,200
+TF-IDF + Naive Bayes,1.0,1.0,1.0,1.0,0.014543871000000763,200
+TF-IDF + Logistic Regression,1.0,1.0,1.0,1.0,0.022958701999996833,200
