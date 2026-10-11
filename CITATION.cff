@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+type: software
+authors:
+  - family-names: "Alamin"
+    given-names: "Mohamed Hassan Ali"
+title: "SmartDesk-IT-Support-Research: An Intelligent IT Support Ticket Classification Research Project"
+version: 1.0.0
+date-released: 2026-10-11
+url: "https://github.com/mo7alkhali/SmartDesk-IT-Support-Research"
